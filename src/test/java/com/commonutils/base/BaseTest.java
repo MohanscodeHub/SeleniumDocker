@@ -2,8 +2,11 @@ package com.commonutils.base;
 
 import com.commonutils.driver.Driver;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
+
+import java.net.MalformedURLException;
 
 
 public class BaseTest {
@@ -17,7 +20,7 @@ public class BaseTest {
 	}
 
 	@BeforeMethod
-	protected void setUp(){
+	protected void setUp() throws MalformedURLException {
 		Driver.initDriver();
 
 
