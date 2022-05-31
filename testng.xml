@@ -3,8 +3,8 @@
 <suite name="book-flight">
   <test thread-count="1" name="Test">
     <classes>
-      <class name="com.tests.searchtests.SearchTest"/>
-        <class name="com.tests.newtourtests.BookFlightTest"/>
+      <class name="com.commonutils.searchtests.SearchTest"/>
+        <class name="com.commonutils.newtourtests.BookFlightTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

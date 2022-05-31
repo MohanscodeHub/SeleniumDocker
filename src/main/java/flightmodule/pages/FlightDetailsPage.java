@@ -1,4 +1,4 @@
-package com.tests.pages;
+package flightmodule.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

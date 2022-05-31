@@ -1,7 +1,7 @@
-package com.tests.newtourtests;
+package com.commonutils.newtourtests;
 
-import com.tests.base.BaseTest;
-import com.tests.pages.RegistrationPage;
+import com.commonutils.base.BaseTest;
+import flightmodule.pages.RegistrationPage;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 

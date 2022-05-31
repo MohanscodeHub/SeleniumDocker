@@ -1,6 +1,6 @@
-package com.tests.base;
+package com.commonutils.base;
 
-import com.tests.driver.Driver;
+import com.commonutils.driver.Driver;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;

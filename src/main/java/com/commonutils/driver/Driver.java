@@ -1,7 +1,7 @@
-package com.tests.driver;
+package com.commonutils.driver;
 
 
-import com.tests.constants.FrameworkConstants;
+import com.commonutils.constants.FrameworkConstants;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.Objects;

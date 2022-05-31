@@ -1,4 +1,4 @@
-package com.tests.config;
+package com.commonutils.config;
 
 import org.aeonbits.owner.Config;
 

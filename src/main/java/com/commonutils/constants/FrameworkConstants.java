@@ -1,4 +1,4 @@
-package com.tests.constants;
+package com.commonutils.constants;
 
 public class FrameworkConstants {
 
